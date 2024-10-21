@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosegoldofficial&label=Profile%20views&color=0eb421&style=plastic" alt="rosegoldofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosegoldofficial" alt="rosegoldofficial" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rosegoldofficial&theme=onedark)](https://github.com/rosegoldofficial/github-profile-trophy)
 
 - 🔭 I’m currently working on **RepliGon Raiders**
 
